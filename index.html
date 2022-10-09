@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <!-- responsive -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+  <title>&nbsp;</title>
+
+  <!-- favicon -->
+  <link rel="icon" href="favicon.ico">
+
+  <!-- url fixing -->
+  <script>
+  // 1. remove extraneous index.html, index.htm
+  // 2. ensure trailing slash
+  if (location.pathname.slice(-1) !== '/') {
+    location.href = location.origin + location.pathname.replace(/\/index\.html?$/, '') +
+      '/' + location.search + location.hash;
+  }
+  </script>
+
+  <!-- import vendor styles -->
+  <link rel="stylesheet" href="vendor/zenburn.css">
+  <link rel="stylesheet" href="vendor/blog.css">
+</head>
+<body>
+
+<a target="_blank" href="https://github.com/zhanzengyu/blog">
+  <img class="fork-me" src="vendor/fork.png">
+</a>
+
+<!-- settle contents -->
+<div class="contents" id="contents">
+  <div class="sidebar">
+    <div class="sidebar-inner">
+      <div class="sidebar-page" id="sidebar-page"></div>
+    </div>
+  </div>
+
+  <div class="main" id="main">
+    <div class="main-inner">
+      <div class="main-page" id="main-page"></div>
+
+      <!-- comment system -->
+      <div id="comment-system">
+        <!-- for opt.3 giscus only -->
+        <div class="giscus"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- fill the img in shared links -->
+<!-- <img class="img-holder" id="img-holder" src="p/avatar.jpg"> -->
+
+<!-- import vendor scripts -->
+<script src="vendor/jquery-1.11.1.min.js"></script>
+<script src="vendor/marked-0.3.2.min.js"></script>
+<script src="vendor/mermaid-9.1.6.min.js"></script>
+<script>
+mermaid.mermaidAPI.initialize({ startOnLoad:false })
+</script>
+<script src="vendor/highlight.pack.js"></script>
+<script src="vendor/blog.js"></script>
+
+<!-- analytics -->
+<!-- opt.1 google -->
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZY8VWXQSC8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-ZY8VWXQSC8');
+</script> -->
+
+<!-- opt.2 baidu -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?d3ca43076bfa5314312ab46599d87c62";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+<!-- comment system -->
+<!-- opt.3 giscus -->
+<!-- https://giscus.app/ -->
+<script src="https://giscus.app/client.js"
+        data-repo="zhanzengyu/blog"
+        data-repo-id="R_kgDOIK5_vA"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOIK5_vM4CR4TQ"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
+
+</body>
+</html>
