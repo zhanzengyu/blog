@@ -273,6 +273,41 @@
     }).appendTo('head')
   }
 
+  // opt.3 giscus
+  // https://giscus.app/
+  var giscusInitiated = false
+  function giscus(attrs) {
+    if (giscusInitiated) {
+      giscusSendMessage({ setConfig: { term: document.title } })
+      return
+    }
+    giscusInitiated = true
+    $('<div>').addClass('giscus').appendTo('#comment-system')
+    var dest = {
+      src: 'https://giscus.app/client.js',
+      'data-mapping': 'title', // mapping='title' is required for silent
+      'data-strict': '0',
+      'data-reactions-enabled': '1',
+      'data-emit-metadata': '0',
+      'data-input-position': 'bottom',
+      'data-theme': 'light', // silent doesn't support darkmode now
+      crossorigin: 'anonymous',
+      async: true
+    }
+    Object.keys(attrs).forEach(function (k) { dest[k] = attrs[k] })
+    // notice: $('<script>') not working here
+    var script = document.createElement('script')
+    Object.keys(dest).forEach(function (k) { script.setAttribute(k, dest[k]) })
+    document.body.appendChild(script)
+  }
+  // dynamically setConfig
+  // https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#parent-to-giscus-message-events
+  function giscusSendMessage(message) {
+    const iframe = document.querySelector('iframe.giscus-frame');
+    if (!iframe) return;
+    iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+  }
+
   config()
   start()
 
@@ -295,6 +330,14 @@
     // opt.3 giscus
     // giscus logic should be added directly to html
     // to make it work instead, see index.html
+    // opt.3 giscus
+    giscus({
+      'data-repo': 'zhanzengyu/blog',
+      'data-repo-id': 'R_kgDOIK5_vA',
+      'data-category': 'Announcements',
+      'data-category-id': 'DIC_kwDOIK5_vM4CR4TQ',
+      'data-lang': 'zh-CN'
+    })
   }
 
   function shares() {
