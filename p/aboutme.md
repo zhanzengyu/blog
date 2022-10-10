@@ -11,4 +11,5 @@
 - 邮箱：nesger.zhan@gmail.com
 
 ### 微信公众号
-![](./images/wechat.png)
+
+<img width="500" src="images/wechat.png">

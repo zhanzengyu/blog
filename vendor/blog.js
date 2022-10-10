@@ -242,35 +242,25 @@
     return navTitle
   }
 
-  // opt.1 disqus
-  // https://disqus.com/admin/install/platforms/universalcode/
-  function disqus(shortName, title, id) {
-    window.disqus_shortname = shortName
-    window.disqus_title = title
-    window.disqus_identifier = id
-    window.disqus_url = location.href
-    $('<div>').attr({ id: 'disqus_thread' }).appendTo('#comment-system')
-    $('<script>').attr({
-      src: 'https://' + shortName + '.disqus.com/embed.js',
-      'data-timestamp': +new Date(),
+  // https://giscus.app/
+  function giscus(attrs) {
+    $('<div>').addClass('giscus').appendTo('#comment-system')
+    var dest = {
+      src: 'https://giscus.app/client.js',
+      'data-mapping': 'title', // mapping='title' is required for silent
+      'data-strict': '0',
+      'data-reactions-enabled': '1',
+      'data-emit-metadata': '0',
+      'data-input-position': 'bottom',
+      'data-theme': 'light', // silent doesn't support darkmode now
+      crossorigin: 'anonymous',
       async: true
-    }).appendTo('head')
-  }
-  // opt.2 cusdis
-  // https://cusdis.com/doc#/advanced/sdk?id=js-sdk
-  function cusdis(host, appId, title, id) {
-    $('<div>').attr({
-      id: 'cusdis_thread',
-      'data-host': host,
-      'data-app-id': appId,
-      'data-page-id': id,
-      'data-page-url': location.href,
-      'data-page-title': title
-    }).appendTo('#comment-system')
-    $('<script>').attr({
-      src: 'https://cusdis.com/js/cusdis.umd.js',
-      async: true
-    }).appendTo('head')
+    }
+    Object.keys(attrs).forEach(function (k) { dest[k] = attrs[k] })
+    // notice: $('<script>') not working here
+    var script = document.createElement('script')
+    Object.keys(dest).forEach(function (k) { script.setAttribute(k, dest[k]) })
+    document.body.appendChild(script)
   }
 
   config()
@@ -283,18 +273,13 @@
 
   function comments() {
     //// Optional comment system
-    // opt.1 disqus (not recommended in China due to the GFW)
-    // var dqsShortName = 'silent-blog'
-    // disqus(dqsShortName, mainTitle, mainPage)
-
-    // opt.2 cusdis
-    // var cdsHost = 'https://cusdis.com'
-    // var cdsAppId = '3ab3a14f-bcb2-4a6f-b984-742a15463f80'
-    // cusdis(cdsHost, cdsAppId, mainTitle, mainPage)
-
-    // opt.3 giscus
-    // giscus logic should be added directly to html
-    // to make it work instead, see index.html
+    giscus({
+      'data-repo': 'zhanzengyu/blog',
+      'data-repo-id': 'R_kgDOIK5_vA',
+      'data-category': 'Announcements',
+      'data-category-id': 'DIC_kwDOIK5_vM4CR4TQ',
+      'data-lang': 'zh-CN'
+    })
   }
 
   function shares() {
