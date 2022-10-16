@@ -1,6 +1,6 @@
-# 😊 About Me
+## ZhanZengyu's Blog
 
-## ZhanZengyu
+👉[Blog](https://zhanzengyu.github.io/blog/)  
 
 介绍：使用过 nesger、AndroidTraveler、安卓小煜 等ID
 
@@ -12,4 +12,4 @@
 
 ### 微信公众号
 
-<img width="500" src="images/wechat.png">
+<img width="500" src="p/images/wechat.png">
