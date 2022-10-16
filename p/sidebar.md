@@ -3,6 +3,6 @@
 > Love yourself is the beginning of a lifelong romance
 
 
-- [🌈 Posts](/projects/)
+- [🌈 Posts](posts.md)
 
 - [😊 About Me](aboutme.md)
