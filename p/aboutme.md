@@ -8,7 +8,7 @@
 - [掘金](https://juejin.im/user/5aed89ef518825672f19c2b7/posts)
 - [知乎](https://www.zhihu.com/people/nesger/activities)
 - 微博：[安卓小煜](https://weibo.com/u/2403536965)
-- 邮箱：nesger.zhan@gmail.com
+- 邮箱：<nesger.zhan@gmail.com>
 
 ### 微信公众号
 
