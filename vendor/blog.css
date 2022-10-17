@@ -84,20 +84,20 @@ a {
 }
 
 .sidebar {
-  color: #fff;
-  background-color: #336699;
+  color: #006699;
+  background-color: #E9E9D8;
 }
 .sidebar-inner {
   padding: 2% 5%;
 }
 .sidebar a {
-  color: #fff;
+  color: #006699;
 }
 .sidebar h1 a {
   text-decoration: none;
 }
 .sidebar blockquote {
-  color: #bbb;
+  color: #990066;
 }
 
 .main-inner {
