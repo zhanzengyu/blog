@@ -9,6 +9,7 @@
   var sidebarPage, defaultPage
   var mainPage, mainTitle
   var mainPageId, mainSearch
+  var isInnerFrame = location.pathname.endsWith('/inner/')
 
   function loadSidebar() {
     load('#sidebar-page', sidebarPage)
@@ -109,13 +110,15 @@
 
         var extRegex = new RegExp(slashes(pageExt) + '$')
         if (extRegex.test(dehashed) || /\/$/.test(dehashed)) {
-          return (
+          let pageHref = (
             '?' +
             dehashed
               .replace(new RegExp('^' + slashes(pageBase)), '')
               .replace(extRegex, '') +
             hash
           )
+          if (isInnerFrame) pageHref = location.pathname + pageHref
+          return pageHref
         }
         return prefixed
       })
@@ -141,7 +144,7 @@
     // supports mermaid diagrams
     mermaid.init()
 
-    comments()
+    if (!isInnerFrame) comments()
     shares()
   }
 
@@ -456,7 +459,7 @@
   }
 
   function start() {
-    loadSidebar()
+    if (!isInnerFrame) loadSidebar()
     loadMain(location.search)
   }
 
@@ -546,6 +549,6 @@
     pageBase = 'p/'
     // add a trailing slash if it is an index.md of a directory
     sidebarPage = 'sidebar'
-    defaultPage = 'posts'
+    defaultPage = window.silentDefaultPage || 'posts'
   }
 })()
