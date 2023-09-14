@@ -2,6 +2,8 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <!-- ** inner frame page ** -->
+  <base href="../">
 
   <!-- responsive -->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
@@ -24,6 +26,8 @@
   <!-- import vendor styles -->
   <link rel="stylesheet" href="vendor/zenburn.css">
   <link rel="stylesheet" href="vendor/blog.css">
+  <!-- ** inner frame page ** -->
+  <style>.fork-me, .sidebar, #comment-system { display: none }</style>
 </head>
 <body>
 
@@ -59,6 +63,8 @@
 <script src="vendor/marked-0.3.2.min.js"></script>
 <script src="vendor/mermaid-9.1.6.min.js"></script>
 <script src="vendor/highlight.pack.js"></script>
+<!-- ** inner frame page ** -->
+<script>window.silentDefaultPage = 'resource'</script>
 <script src="vendor/blog.js"></script>
 
 <!-- analytics -->
