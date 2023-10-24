@@ -2,12 +2,22 @@
 
 >为了避免资源被和谐，请下载后再解压播放
 
-[Blood_C（血战）](https://pan.baidu.com/s/1wfRN0rEjow2T8mZ6uMpT1A?pwd=898b)
+[我想吃掉你的胰脏](https://pan.baidu.com/s/1ZukdaZPkKhe3gXPE2csMPg?pwd=f3ek)
+
+[Blood_C（血战）](https://pan.baidu.com/s/1cwOqgRjn7mpHo9VEE7nSmw?pwd=bhg3)
 
 [蓝色监狱](https://pan.baidu.com/s/1LrJkRDcR7MfC8P13T7E41A?pwd=aafp)
 
 [想要成为影之实力者](https://pan.baidu.com/s/1hW2dtPKXA09WRjSV69O_kA?pwd=rbg4)
 
-[尸体派对-受暴虐亡魂之咒叫[OVA]](https://pan.baidu.com/s/1LZ5BS1258U1dYZImS3Ratw?pwd=m99c)
+[尸体派对-受暴虐亡魂之咒叫[OVA]](https://pan.baidu.com/s/1-J-SrjOLBQBVxyDM7-9MEQ?pwd=4dux)
 
-[终末的女武神](https://pan.baidu.com/s/19F4W7qQu6FD2qoBdR-nnfg?pwd=4kam)
+[终末的女武神](https://pan.baidu.com/s/15yRC621PrKswrIqms56B-w?pwd=zcsf)
+
+[名侦探柯南：万圣节的新娘](https://pan.baidu.com/s/15TeZF7eUcoTfxTXgSIm_6Q?2j0s)
+
+[咒术回战剧场版](https://pan.baidu.com/s/1b5UUDDjuCoVKOQ5O9Z9jJg?4w23)
+
+[欢迎来到实力主义至上的教室第二季](https://pan.baidu.com/s/1aZHqiPCqfrjk4_0uqZdaew?01h9)
+
+[海贼王RED](https://tuoma.bec.today/item?id=0cIYeAan5L8oOVPA4oCQ_)
