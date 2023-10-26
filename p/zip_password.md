@@ -19,5 +19,3 @@
 [咒术回战剧场版](https://tuoma.bec.today/item?id=pw_6yrv09YRPz2HiQQtbY)
 
 [欢迎来到实力主义至上的教室第二季](https://tuoma.bec.today/item?id=fULBKZEfVQ-sjfR6YIKDW)
-
-[海贼王RED](https://tuoma.bec.today/item?id=0cIYeAan5L8oOVPA4oCQ_)

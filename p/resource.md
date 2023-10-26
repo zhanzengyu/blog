@@ -21,3 +21,9 @@
 [欢迎来到实力主义至上的教室第二季](https://pan.baidu.com/s/1aZHqiPCqfrjk4_0uqZdaew?01h9)
 
 [海贼王RED](https://tuoma.bec.today/item?id=0cIYeAan5L8oOVPA4oCQ_)
+
+[魔笛Magic（魔奇少年）](https://tuoma.bec.today/item?id=pyRy9xhx0bFtbSXF9SqQ3)
+
+[孤独摇滚](https://tuoma.bec.today/item?id=6K_S_vg3PxKynTyUIINtR)
+
+[跃动青春](https://tuoma.bec.today/item?id=EA3I7NzuqkUzh9YLfKEkB)
