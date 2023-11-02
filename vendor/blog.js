@@ -45,6 +45,10 @@
     var url = pageBase + pageId + pageExt
     $.ajax({
       url: url,
+      headers: {
+        // avoid cache never expires in case of missing cache-policy from server
+        'Cache-Control': 'max-age=1', // 1min
+      },
       error: function (err) {
         if (isMain && pageId !== mainPageId) return
 
