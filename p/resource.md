@@ -2,6 +2,8 @@
 
 >为了避免资源被和谐，请下载后再解压播放
 
+<img src="https://komarev.com/ghpvc/?username=nesger&color=blue&style=flat-square&label=visitors" align="right" />
+
 [我想吃掉你的胰脏](https://pan.baidu.com/s/1ZukdaZPkKhe3gXPE2csMPg?pwd=f3ek)
 
 [Blood_C（血战）](https://pan.baidu.com/s/1cwOqgRjn7mpHo9VEE7nSmw?pwd=bhg3)
@@ -39,4 +41,3 @@
 [终将成为你](https://tuoma.bec.today/item?id=XfgNnFcF6yokL5HqahZjA)
 
 [魔女宅急便 魔女の宅急便 (1989)](https://tuoma.bec.today/item?id=1h4gaR5DuvNxf1i72wu1x)
-
