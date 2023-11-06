@@ -2,8 +2,6 @@
 
 >为了避免资源被和谐，请下载后再解压播放
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5glofg59mfz&amp;s=220&amp;m=7&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
-
 [我想吃掉你的胰脏](https://pan.baidu.com/s/1ZukdaZPkKhe3gXPE2csMPg?pwd=f3ek)
 
 [Blood_C（血战）](https://pan.baidu.com/s/1cwOqgRjn7mpHo9VEE7nSmw?pwd=bhg3)
