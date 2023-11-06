@@ -41,3 +41,7 @@
 [终将成为你](https://tuoma.bec.today/item?id=XfgNnFcF6yokL5HqahZjA)
 
 [魔女宅急便 魔女の宅急便 (1989)](https://tuoma.bec.today/item?id=1h4gaR5DuvNxf1i72wu1x)
+
+[11eyes罪与罚与赎的少女](https://tuoma.bec.today/item?id=zvNLxnIYBcSSzqrdchZf8)
+
+[关于我转生变成史莱姆这档事.1-2季-OVA-剧场版](https://tuoma.bec.today/item?id=IILg8BTfI6dBeP1D7r2Mp)
