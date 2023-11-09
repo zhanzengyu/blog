@@ -2,6 +2,8 @@
 
 > [资源下载网页](https://bec.today/dmglzy/inner/?resource)
 
+[我的妹妹是黄漫老师](https://tuoma.bec.today/item?id=9kNgGk8PHO7FE9kM1mBmy) 
+
 [我想吃掉你的胰脏](https://tuoma.bec.today/item?id=Jn6kuTxU8xUbhJq9XNC6y)
 
 [Blood_C（血战）](https://tuoma.bec.today/item?id=syICE3odwh9n9qbr8jX-F)

@@ -2,6 +2,8 @@
 
 >为了避免资源被和谐，请下载后再解压播放
 
+[我的妹妹是黄漫老师](https://pan.baidu.com/s/1Ju3rQhGivycO5ZVLslrt4w?pwd=77n7)
+
 [我想吃掉你的胰脏](https://pan.baidu.com/s/1ZukdaZPkKhe3gXPE2csMPg?pwd=f3ek)
 
 [Blood_C（血战）](https://pan.baidu.com/s/1cwOqgRjn7mpHo9VEE7nSmw?pwd=bhg3)
