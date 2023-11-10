@@ -46,4 +46,6 @@
 
 [关于我转生变成史莱姆这档事.1-2季-OVA-剧场版](https://tuoma.bec.today/item?id=IILg8BTfI6dBeP1D7r2Mp)
 
+[龙王的工作](https://tuoma.bec.today/item?id=JPccAl3OtdLIffU9iVGUR)
+
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5glofg59mfz&amp;s=220&amp;m=7&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
