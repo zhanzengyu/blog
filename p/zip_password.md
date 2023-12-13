@@ -22,13 +22,16 @@
 
 [欢迎来到实力主义至上的教室第二季](https://tuoma.bec.today/item?id=fULBKZEfVQ-sjfR6YIKDW)
 
+<style>[id*=busuanzi] { display: initial !important }</style>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
 <span id="busuanzi_container_page_pv">
   本页访问量：<span id="busuanzi_value_page_pv"></span>次
 </span>
 
+
 <br/>
 
-<span id="busuanzi_container_page_uv">
-  本页访客数：<span id="busuanzi_value_page_uv"></span>人
+<span id="busuanzi_container_site_uv">
+  本站访客数：<span id="busuanzi_value_site_uv"></span>人
 </span>
