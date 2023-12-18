@@ -58,6 +58,8 @@
 
 [十二国记](https://tuoma.bec.today/item?id=Nwt5qY7IS7ZLw74k3t54g)
 
+[画江湖之不良人全六季](https://tuoma.bec.today/item?id=cNUA77kL_9KfwiHYjgqXE)
+
 
 <style>[id*=busuanzi] { display: initial !important }</style>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
