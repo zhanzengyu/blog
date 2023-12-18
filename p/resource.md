@@ -2,6 +2,20 @@
 
 >为了避免资源被和谐，请下载后再解压播放
 
+[名侦探柯南-黑铁的鱼影](https://tuoma.bec.today/item?id=zlaOoUVO-JTymqze75KZI)
+
+[画江湖之不良人全六季](https://tuoma.bec.today/item?id=cNUA77kL_9KfwiHYjgqXE)
+
+[为美好的世界献上祝福1-2季](https://tuoma.bec.today/item?id=OUccQqk25-gi5Lw0MRjnD)
+
+[无限滑板](https://tuoma.bec.today/item?id=BDVEgIXAdiwT_Ns-mqXne)
+
+[声之形](https://tuoma.bec.today/item?id=WgSy7qzlWbaqTCxBRAdYh)
+
+[千年女优](https://tuoma.bec.today/item?id=5zW0Iz20GXXwJe_CMQFGP)
+
+[十二国记](https://tuoma.bec.today/item?id=Nwt5qY7IS7ZLw74k3t54g)
+
 [我的妹妹是黄漫老师](https://pan.baidu.com/s/1Ju3rQhGivycO5ZVLslrt4w?pwd=77n7)
 
 [我想吃掉你的胰脏](https://pan.baidu.com/s/1ZukdaZPkKhe3gXPE2csMPg?pwd=f3ek)
@@ -47,18 +61,6 @@
 [关于我转生变成史莱姆这档事.1-2季-OVA-剧场版](https://tuoma.bec.today/item?id=IILg8BTfI6dBeP1D7r2Mp)
 
 [龙王的工作](https://tuoma.bec.today/item?id=JPccAl3OtdLIffU9iVGUR)
-
-[为美好的世界献上祝福1-2季](https://tuoma.bec.today/item?id=OUccQqk25-gi5Lw0MRjnD)
-
-[无限滑板](https://tuoma.bec.today/item?id=BDVEgIXAdiwT_Ns-mqXne)
-
-[声之形](https://tuoma.bec.today/item?id=WgSy7qzlWbaqTCxBRAdYh)
-
-[千年女优](https://tuoma.bec.today/item?id=5zW0Iz20GXXwJe_CMQFGP)
-
-[十二国记](https://tuoma.bec.today/item?id=Nwt5qY7IS7ZLw74k3t54g)
-
-[画江湖之不良人全六季](https://tuoma.bec.today/item?id=cNUA77kL_9KfwiHYjgqXE)
 
 
 <style>[id*=busuanzi] { display: initial !important }</style>
