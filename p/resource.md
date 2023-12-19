@@ -3,6 +3,10 @@
 > 为了避免资源被和谐，请下载后再解压播放  
 > 资源较多，可以通过浏览器的搜索查找到你要的资源
 
+[眷思量](https://tuoma.bec.today/item?id=dFoFnvAan4bP1WNhu6pTh)
+
+[镇魂街](https://tuoma.bec.today/item?id=sNDE-aOFDA6yny0I8GMc1)
+
 [名侦探柯南-黑铁的鱼影](https://tuoma.bec.today/item?id=zlaOoUVO-JTymqze75KZI)
 
 [画江湖之不良人全六季](https://tuoma.bec.today/item?id=cNUA77kL_9KfwiHYjgqXE)
