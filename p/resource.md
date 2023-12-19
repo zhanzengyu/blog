@@ -7,6 +7,12 @@
 
 [镇魂街](https://tuoma.bec.today/item?id=sNDE-aOFDA6yny0I8GMc1)
 
+[好想告诉你](https://tuoma.bec.today/item?id=9OUfvmnhGcyf2an9Vc47F)
+
+[甲贺忍法帖](https://tuoma.bec.today/item?id=3UD3rY4IqZSUV4w8WGSDs)
+
+[兽兵卫忍风帖](https://tuoma.bec.today/item?id=X8Nbw9gC0NXhcs3bmp8yT)
+
 [名侦探柯南-黑铁的鱼影](https://tuoma.bec.today/item?id=zlaOoUVO-JTymqze75KZI)
 
 [画江湖之不良人全六季](https://tuoma.bec.today/item?id=cNUA77kL_9KfwiHYjgqXE)
