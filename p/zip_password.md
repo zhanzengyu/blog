@@ -1,3 +1,5 @@
+### 资源维护中，待后续维护完毕再开放，如果你想购买资源，请私信
+<!--
 ### 点击对应资源查看对应的压缩密码
 
 > [资源下载网页](https://bec.today/dmglzy/inner/?resource)
@@ -21,3 +23,5 @@
 [咒术回战剧场版](https://tuoma.bec.today/item?id=pw_6yrv09YRPz2HiQQtbY)
 
 [欢迎来到实力主义至上的教室第二季](https://tuoma.bec.today/item?id=fULBKZEfVQ-sjfR6YIKDW)
+
+-->

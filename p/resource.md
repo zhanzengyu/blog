@@ -1,3 +1,5 @@
+### 资源维护中，待后续维护完毕再开放，如果你想购买资源，请私信
+<!--
 ### 点击跳转到网盘下载
 
 > 为了避免资源被和谐，请下载后再解压播放  
@@ -84,3 +86,5 @@
 <span id="busuanzi_container_site_uv">
   本站访客数：<span id="busuanzi_value_site_uv"></span>人
 </span>
+
+-->
