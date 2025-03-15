@@ -10,16 +10,24 @@
 
 ### 2. 领吃喝玩乐全品类好货大额劵
 
-<img src="./images/吃喝玩乐全品类好货.jpeg" width=200 align="left">
+<div align="left">
+<img src="./images/吃喝玩乐全品类好货.jpeg" width=200>
+</div>
 
 ### 3. 商超果蔬红包天天领，周三还有满43减13大额神券
 
-<img src="./images/商超果蔬红包.jpeg" width=200 align="left">
+<div align="left">
+<img src="./images/商超果蔬红包.jpeg" width=200>
+</div>
 
 ### 4. 先领券再下单，十点爆品疯抢神券
 
-<img src="./images/先领券再下单-3.31.jpeg" width=200 align="left">
+<div align="left">
+<img src="./images/先领券再下单-3.31.jpeg" width=200>
+</div>
 
 ### 5. 红包天天领，套餐折上折
 
-<img src="./images/红包天天领.jpeg" width=200 align="left">
+<div align="left">
+<img src="./images/红包天天领.jpeg" width=200>
+</div>
